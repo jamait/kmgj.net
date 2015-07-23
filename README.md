@@ -1,4 +1,2 @@
-# kmgj.se
-www.kmgj.se
-
-Lets try this
+# kmgj.net
+www.kmgj.net
